@@ -36,8 +36,14 @@
         <a href="https://github.com/dewacahaya/" target="_blank" rel="noopener noreferrer"
           class=" px-6 py-3 rounded-full shadow-lg hover:bg-green-300 hover:translate-y-2 transition duration-300 dark:bg-white">
           <img
-            src="https://cdn.discordapp.com/attachments/911837926063743028/1416607701038923816/image.png?ex=68c7763b&is=68c624bb&hm=b51154db853d93c70f3ce8863dc9c1deafffe35cd25ed3234c114a132aea55c5&"
+            src="@/assets/images/github.png"
             alt="GitHub" class="w-10 h-10 inline-block">
+        </a>
+        <a href="https://www.linkedin.com/in/i-dewa-gede-cahaya-darma-putra-8380b1279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"
+          class=" px-6 py-3 rounded-full shadow-lg hover:bg-green-300 hover:translate-y-2 transition duration-300 dark:bg-white">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png"
+            alt="Linkedin" class="w-10 h-10 inline-block">
         </a>
         <!-- <a href="https://www.instagram.com/dewacahaya._/" target="_blank" rel="noopener noreferrer"
           class=" px-6 py-3 rounded-full shadow-lg hover:bg-white hover:translate-y-2 transition duration-300">
